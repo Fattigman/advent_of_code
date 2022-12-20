@@ -1,3 +1,2 @@
-# Advent of Code 2022 Rust edition
-
-This is my attempt on learning rust, using advent of code 2022.
+# Advent of code from Fattigman
+This is the project where I will store my solutions 
